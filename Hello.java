@@ -7,5 +7,6 @@
 		System.out.println(new java.uti.Date());
 		Admin admin = new Admin() ;
 		Emp emp = new Emp() ;
+		System.out.println("我真的饿了");
 	}
 }
